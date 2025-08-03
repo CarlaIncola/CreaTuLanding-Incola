@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CreaTuLanding-Incola/static/css/main.74bca8d7.css",
+    "main.js": "/CreaTuLanding-Incola/static/js/main.f600e7c2.js",
+    "index.html": "/CreaTuLanding-Incola/index.html",
+    "main.74bca8d7.css.map": "/CreaTuLanding-Incola/static/css/main.74bca8d7.css.map",
+    "main.f600e7c2.js.map": "/CreaTuLanding-Incola/static/js/main.f600e7c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74bca8d7.css",
+    "static/js/main.f600e7c2.js"
+  ]
+}
