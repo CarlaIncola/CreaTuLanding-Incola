@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "https://carlaincola.github.io/CreaTuLanding-Incola/static/css/main.acc959b2.css",
-    "main.js": "https://carlaincola.github.io/CreaTuLanding-Incola/static/js/main.badc0e0d.js",
+    "main.css": "https://carlaincola.github.io/CreaTuLanding-Incola/static/css/main.10b2f9ba.css",
+    "main.js": "https://carlaincola.github.io/CreaTuLanding-Incola/static/js/main.8a2eae17.js",
     "index.html": "https://carlaincola.github.io/CreaTuLanding-Incola/index.html"
   },
   "entrypoints": [
-    "static/css/main.acc959b2.css",
-    "static/js/main.badc0e0d.js"
+    "static/css/main.10b2f9ba.css",
+    "static/js/main.8a2eae17.js"
   ]
 }
